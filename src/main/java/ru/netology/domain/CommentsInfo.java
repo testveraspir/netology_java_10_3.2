@@ -1,7 +1,7 @@
 package ru.netology.domain;
 
 
-public class Comments {
+public class CommentsInfo {
     private String idComments;
     private String textComments;
     private int amountComments; //количество комментариев
